@@ -1,4 +1,5 @@
-## Hi, I'm Daniela 👋
+![Banner](./banner.png)
+## Daniela Silva👋
 
 Java Developer with Cloud specialization ☁️  
 Building real-world fullstack projects with Java, TypeScript, Node.js & AWS  
